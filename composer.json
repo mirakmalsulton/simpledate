@@ -1,0 +1,23 @@
+{
+  "name": "mirakmalsulton/simpledate",
+  "type": "library",
+  "description": "PHP Date library. Add year, month, day. Get current day, datetime",
+  "keywords": [
+    "Date library",
+    "datetime",
+    "date",
+    "time"
+  ],
+  "homepage": "https://stackflow.cc",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "mirakmalsulton",
+      "homepage": "https://stackflow.cc/post/1ec29a36-2bba-6b26-93bb-0050563fb25b",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0"
+  }
+}
